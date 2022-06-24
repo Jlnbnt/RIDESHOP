@@ -21,7 +21,7 @@ const NewsLetter = () => {
     <div className="bg-cyan-50 h-full w-full text-slate-900 flex flex-col justify-center items-center py-8 font-semibold my-8">
       <h2 className="text-3xl md:text-4xl">Recevez notre newsletter</h2>
       <p className="font-medium text-center pt-2">
-        Restez informé des dernieres promos et actus de vos produits favoris
+        Restez informés des dernières promos et actus de vos produits favoris !
       </p>
       <div className="h-full p-8 flex flex-col justify-center items-center">
         <form
@@ -31,7 +31,7 @@ const NewsLetter = () => {
           <input
             type="email"
             autoComplete="off"
-            placeholder="Votre email.."
+            placeholder="Votre email..."
             className="py-4 px-2 w-60 bg-transparent dark:placeholder-white placeholder-slate-900 outline-none md:w-80"
             value={newsInput}
             onChange={(e) => setNewsInput(e.target.value)}

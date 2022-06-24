@@ -33,9 +33,9 @@ export const carouselData = [
     img: "https://res.cloudinary.com/dx5ip73lv/image/upload/c_scale,h_1200/v1655816095/ecommerce/campcar.jpg",
   },
   {
-    title: "EQUIPEMENT SPORTIF",
+    title: "ÉQUIPEMENT SPORTIF",
     cat: "sport",
-    baseline: "Tous les equipements, accessoires dont vous avez besoin...",
+    baseline: "Tous les équipements, accessoires dont vous avez besoin...",
     img: "https://res.cloudinary.com/dx5ip73lv/image/upload/c_scale,h_1200/v1655816093/ecommerce/surfcar.jpg",
   },
   {

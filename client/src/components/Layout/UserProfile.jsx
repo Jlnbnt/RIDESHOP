@@ -178,7 +178,7 @@ const UserProfile = () => {
                 Mes commandes
               </p>
               <p className="text-gray-500 text-sm dark:text-gray-400">
-                Voir mes commandes précedéntes
+                Voir mes commandes précédentes
               </p>
             </div>
           </Link>

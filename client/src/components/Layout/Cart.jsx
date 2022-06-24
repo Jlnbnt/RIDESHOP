@@ -134,11 +134,11 @@ const Cart = () => {
                   <div className="flex justify-between items-center">
                     {itemCount <= 1 ? (
                       <p className="text-gray-500 dark:text-gray-200">
-                        Subtotal ({itemCount} produit):
+                        Total ({itemCount} produit):
                       </p>
                     ) : (
                       <p className="text-gray-500 dark:text-gray-200">
-                        Subtotal ({itemCount} produits):
+                        Total ({itemCount} produits):
                       </p>
                     )}
                     <span>{total.toFixed(2)} €</span>

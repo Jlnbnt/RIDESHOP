@@ -283,7 +283,7 @@ const Cart = () => {
               toast.loading(
                 () => (
                   <span>
-                    Use Stripe's mock credit card number!
+                    Utilisez cette carte de crédit test !
                     <br />
                     <b>Number:</b> 4242 4242 4242 4242
                     <br />

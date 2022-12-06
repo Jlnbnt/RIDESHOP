@@ -1,6 +1,6 @@
 # RIDESHOP
 
-## [Live Demo](https://rideshop.netlify.app/)
+## [Live Demo](https://rideshop.onrender.com/)
 
 ### React, Node.js, MongoDB, Express
 

@@ -1,3 +1,3 @@
-const allowedOrigins = ["https://rideshop.netlify.app"];
+const allowedOrigins = ["https://rideshop.onrender.com/"];
 
 module.exports = allowedOrigins;

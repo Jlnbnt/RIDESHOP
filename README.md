@@ -18,4 +18,4 @@
 - Material UI
 - Tailwind CSS
 
-#### Découvrez mes autres projets : [Portfolio](https://julienbenat.netlify.app/)
+#### Check out my other projects : [Portfolio](https://julienbenat.netlify.app/)

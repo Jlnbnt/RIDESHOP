@@ -2,17 +2,17 @@
 
 ## [Live Demo](https://rideshop.onrender.com/)
 
-### React, Node.js, MongoDB, Express
+### React.js, Node.js, MongoDB, Express
 
 #### Ecommerce WebApp :
 
 - MongoDB Atlas Database
 - Node.js Rest API
 - Express.js
-- React Routing
+- React-Routing
+- React-States
+- React-Hooks
 - API calls & data manipulations
-- States
-- Hooks
 - Context API
 - Folder structure
 - Material UI
